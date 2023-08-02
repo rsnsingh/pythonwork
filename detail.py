@@ -1,0 +1,6 @@
+name=input('enter the name')
+age=eval(input('enter the age'))
+add=input('enter the address')
+print('Name is :', name)
+print('age is :', age)
+print('address is :', add)
